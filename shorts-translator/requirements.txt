@@ -1,7 +1,7 @@
 flask==3.0.0
 flask-cors==4.0.0
-yt-dlp==2024.1.0
-openai-whisper==20231117
+yt-dlp
+openai-whisper
 deep-translator==1.11.4
 requests==2.31.0
 gunicorn==21.2.0
